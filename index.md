@@ -1,5 +1,6 @@
-## WeConnect Documentation
-### WeConnect - Facebook Clone - Native Android App with Firebase
+#### WeConnect - Facebook Clone - Native Android App with Firebase
+
+
 
 You can use the [editor on GitHub](https://github.com/codingbloom/WeConnect-Documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
